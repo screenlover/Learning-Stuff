@@ -1,0 +1,1 @@
+Yes, I have simply modified the original project in order to fit the exercise. Rewriting a bunch of bs was just not worth it.
